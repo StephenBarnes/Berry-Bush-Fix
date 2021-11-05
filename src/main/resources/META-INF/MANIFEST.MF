@@ -1,0 +1,1 @@
+MixinConfigs: berrybushesdonthurtvillagers.mixins.json
