@@ -1,3 +1,3 @@
-Minecraft mod to make falling water push entities downwards
+Minecraft mod to make villagers immune to berry bush damage.
 
-https://www.curseforge.com/minecraft/mc-mods/you-cannot-swim-up-waterfalls
+https://www.curseforge.com/minecraft/mc-mods/berry-bushes-dont-hurt-villagers
